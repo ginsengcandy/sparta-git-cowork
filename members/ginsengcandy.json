@@ -1,0 +1,69 @@
+{
+  "id": "ginsengcandy",
+  "name": "김세현",
+  "subName": "백엔드 개발자",
+  "profileImage": "image/ginsengcandy.jpg",
+  "introduction": {
+    "quote": "백엔드의 핵심!\n데이터 엔지니어입니다",
+    "detail": "빠르고 안정적이면서 보안 수준이 높은 데이터 파이프라인을 구축하는 것을 목표로 하고 있습니다. Redis, Kafka, Apache, Spring 사용 경험이 있습니다."
+  },
+  "info": {
+    "description": "Spring Boot를 활용해 백엔드 개발을 하고 있습니다.",
+    "birthday": "1999.04.29",
+    "location": "경기도 오산시",
+    "email": "kimsparadise0202@gmail.com",
+    "phone": "010-9509 -9045"
+  },
+  "strengths": [
+    "체계성",
+    "문제해결",
+    "빠른 일처리"
+  ],
+  "skills": [
+    { "name": "Python", "progress": 90 },
+    { "name": "Node.js", "progress": 85 },
+    { "name": "JavaScript", "progress": 80 },
+    { "name": "MySQL", "progress": 75 },
+    { "name": "MongoDB", "progress": 70 }
+  ],
+  "licenses": [
+    "AWS 자격증(예정)",
+    "정보처리기사(예정)"
+  ],
+  "education": [
+    {
+      "name": "동탄국제고등학교",
+      "period": "2015.03.02 ~ 2018.02.14",
+      "location": "경기도 화성시"
+    },
+    {
+      "name": "중앙대학교",
+      "period": "2018.03.02 ~ 2025.02.20",
+      "gpa": "4.11",
+      "location": "서울시 동작구"
+    }
+  ],
+  "experience": [
+    {
+      "period": "0년 8개월",
+      "company": "미방항운",
+      "term": "2025.02~2025.10",
+      "team": "항공영업부, 영업사원",
+      "task": "여행사 거래처 실적 관리",
+      "project": {
+        "name": "거래처 데이터 관리 시스템 구축",
+        "term": "2025.09~2022.10",
+        "detail": "Excel, Bizmailer를 활용한 거래처 연락처 관리 시스템"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": "거래처 연락망 관리 시스템",
+      "description": "거래처 통합 연락망 구축을 담당했습니다. 산재된 연락처들을 통합하고 거래처별 segment를 나누어 영업 및 마케킹 전략을 위한 데이터를 준비했습니다.",
+      "image": "image/p2.png",
+      "link": "project2.html"
+    }
+  ]
+}
+

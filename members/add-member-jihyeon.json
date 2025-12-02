@@ -1,6 +1,6 @@
 {
   "id": "member2",
-  "name": "방효경",
+  "name": "유지현",
   "subName": "백엔드 개발자",
   "profileImage": "image/profile_image.png",
   "introduction": {
@@ -8,11 +8,11 @@
     "detail": "확장 가능하고 안정적인 백엔드 시스템을 설계하고 구현하는 것을 전문으로 합니다. Node.js와 Python을 활용하여 효율적인 API 서버를 개발하고 있습니다. 데이터베이스 최적화와 시스템 아키텍처에 관심이 많습니다."
   },
   "info": {
-    "description": "Node.js와 Python을 활용하여 백엔드 개발을 하고 있습니다.",
-    "birthday": "1997.07.15",
-    "location": "서울시 서초구",
-    "email": "member2@example.com",
-    "phone": "010-2222-2222"
+    "description": "Node.js와 java을 활용하여 백엔드 개발을 하고 있습니다.",
+    "birthday": "1999.09.21",
+    "location": "서울시 강서구",
+    "email": "yio19@naver.com",
+    "phone": "010-3399-5914"
   },
   "strengths": [
     "체계성",
@@ -20,15 +20,13 @@
     "빠른 일처리"
   ],
   "skills": [
-    { "name": "Python", "progress": 90 },
-    { "name": "Node.js", "progress": 85 },
-    { "name": "JavaScript", "progress": 80 },
-    { "name": "MySQL", "progress": 75 },
-    { "name": "MongoDB", "progress": 70 }
+    { "name": "Python", "progress": 10 },
+    { "name": "Node.js", "progress": 10 },
+    { "name": "JavaScript", "progress": 10 },
+    { "name": "MySQL", "progress": 10 },
+    { "name": "MongoDB", "progress": 10 }
   ],
   "licenses": [
-    "AWS 자격증",
-    "정보처리기사"
   ],
   "education": [
     {
